@@ -1,0 +1,30 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=13b57922_002D0807_002D48f5_002Db797_002D80a466450a63/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GameBlock_Can_NOT_Make_A_Word #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::6FDC335E-4A2D-4CE3-8F8B-5B80FA17B814::.NETCoreApp,Version=v3.1::ABCTests.BlockGameTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1e16deca_002Dbbd3_002D4234_002Daa61_002Deb6bb58c8eb2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GameBlock_Can_Make_A_Word #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::6FDC335E-4A2D-4CE3-8F8B-5B80FA17B814::.NETCoreApp,Version=v3.1::ABCTests.BlockGameTest.GameBlock_Can_Make_A_Word&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::6FDC335E-4A2D-4CE3-8F8B-5B80FA17B814::.NETCoreApp,Version=v3.1::ABCTests.BlockGameTest.GameBlock_Can_NOT_Make_A_Word&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6f5af19c_002D1baa_002D4abd_002D93b5_002D62dfe7526e08/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="BlockGameTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::6FDC335E-4A2D-4CE3-8F8B-5B80FA17B814::.NETCoreApp,Version=v3.1::ABCTests.BlockGameTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9ad69aa0_002D6942_002D4d6f_002D9917_002De094dc184991/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GameBlock_Can_Make_A_Word" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::6FDC335E-4A2D-4CE3-8F8B-5B80FA17B814::.NETCoreApp,Version=v3.1::ABCTests.BlockGameTest.GameBlock_Can_Make_A_Word&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b887d64d_002D1cda_002D4cdf_002D8b08_002D9e1f0e5b3a5b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GameBlock_Can_NOT_Make_A_Word" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::6FDC335E-4A2D-4CE3-8F8B-5B80FA17B814::.NETCoreApp,Version=v3.1::ABCTests.BlockGameTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c6b5e46a_002D8c6f_002D45d9_002D851e_002D63ab23b26afe/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;ABCTests&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\roya.taleghani\OneDrive - MYOB\Documents\Projects\ABCTDDTESTS\ABCTests" Presentation="&amp;lt;ABCTests&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
