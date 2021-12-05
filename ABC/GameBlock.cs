@@ -45,27 +45,35 @@ namespace ABC
 
             for (var i=0  ; i < word.Length; i++)
             {
+                int removeIndex = -1;
                 for (var j=0; j< _blocks.Count; j++)
                 {
                     if (_blocks[j].GetLetter1() == word[i] || _blocks[j].GetLetter2() == word[i])
                     {
 
                         matchedList.Add(word[i].ToString());
-                        _blocks.RemoveAt(j);
-                        i++;
-                        //j = 0;
-
-                        if (matchedList.Count == word.Length)
+                        removeIndex = j;
+                        /*if (matchedList.Count == word.Length)
                         {
                             return matchedList;
-                        }
+                        }*/
                         break;
                     }
-
-                    
+                   
                 }
 
-                     
+                if (removeIndex > -1)
+                {
+                    _blocks.RemoveAt(removeIndex);
+                }
+
+               /* var block = _blocks.Find((block) => block.GetLetter1() == word[i] || block.GetLetter2() == word[i]);
+                if (block != null)
+                {
+                    _blocks.Remove(block);
+                }
+                */
+
             }
                   
             return matchedList;

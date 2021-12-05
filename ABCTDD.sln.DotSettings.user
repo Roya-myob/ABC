@@ -1,5 +1,5 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=13b57922_002D0807_002D48f5_002Db797_002D80a466450a63/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GameBlock_Can_NOT_Make_A_Word #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=13b57922_002D0807_002D48f5_002Db797_002D80a466450a63/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GameBlock_Can_NOT_Make_A_Word #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;xUnit::6FDC335E-4A2D-4CE3-8F8B-5B80FA17B814::.NETCoreApp,Version=v3.1::ABCTests.BlockGameTest&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
@@ -20,7 +20,7 @@
     &lt;TestId&gt;xUnit::6FDC335E-4A2D-4CE3-8F8B-5B80FA17B814::.NETCoreApp,Version=v3.1::ABCTests.BlockGameTest.GameBlock_Can_Make_A_Word&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b887d64d_002D1cda_002D4cdf_002D8b08_002D9e1f0e5b3a5b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GameBlock_Can_NOT_Make_A_Word" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b887d64d_002D1cda_002D4cdf_002D8b08_002D9e1f0e5b3a5b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GameBlock_Can_NOT_Make_A_Word" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;xUnit::6FDC335E-4A2D-4CE3-8F8B-5B80FA17B814::.NETCoreApp,Version=v3.1::ABCTests.BlockGameTest&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
